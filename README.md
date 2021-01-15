@@ -7,7 +7,7 @@
 
 **Try your Twitter/Linkedin profile picture in the below colab link.**
 
-Best suited for Twitter/Linkedin profile pictures. Try photos below 600px.
+Best suited for Twitter/Linkedin profile pictures. Try portrait photos below 600px.
 
 [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/Toon_Me_(Try_it_on_Colab).ipynb)
 
