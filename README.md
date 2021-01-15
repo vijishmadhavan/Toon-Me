@@ -73,7 +73,7 @@ The easiest way to get started is to simply try out on Colab: [<img src="https:/
 
 ![Imgur](https://i.imgur.com/OsqEEpR.jpg)
 
-##Try your Twitter profile picture on Colab
+## Try your Twitter profile picture on Colab
 
 Steps to Follow (Twitter/Linkedin):
 
