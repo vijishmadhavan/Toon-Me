@@ -89,7 +89,7 @@ Steps to Follow (Twitter/Linkedin):
 
 4 click on "copy image address".
 
-5 Paste it on the below url space.
+5 Paste it on the url space provided, and run it.
 
 ![Imgur](https://i.imgur.com/rDjaWjx.jpg)
 
