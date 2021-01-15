@@ -17,9 +17,13 @@ Virat Kohli, Indian cricketer
 
 ![Virat](https://i.imgur.com/TcGTNgV.jpg)
 
+Tom Cruise, American actor
+
+![Tom](https://i.imgur.com/2VFw4h3.jpg)
+
 Aamir Khan, Indian actor
 
-![Amir](https://i.imgur.com/ktVjWz1.jpg)
+![Amir](https://i.imgur.com/G7z6k2M.jpg)
 
 Deepika Padukone, Indian actress
 
