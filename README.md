@@ -23,7 +23,7 @@ Aamir Khan, Indian actor
 
 Tom Cruise, American actor
 
-![Tom][(https://i.imgur.com/gSmZIPs.jpg)
+![Tom](https://i.imgur.com/gSmZIPs.jpg)
 
 Deepika Padukone, Indian actress
 
