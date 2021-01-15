@@ -7,6 +7,8 @@
 
 **Try your Twitter/Linkedin profile picture in the below colab link.**
 
+Best suited for Twitter/Linkedin profile pictures. Try photos below 600px.
+
 [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/Toon_Me_(Try_it_on_Colab).ipynb)
 
 
@@ -58,19 +60,8 @@ I have created a custom dataset having 300 images.
 
 The easiest way to get started is to simply try out on Colab: [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/Toon_Me_(Try_it_on_Colab).ipynb)
 
-**Steps to Follow (Twitter/Linkedin):**
+Best suited for Twitter/Linkedin profile pictures. Try photos below 600px.
 
-1 Open your twitter profile page
-
-2 Click on your profile picture, Let it expand. 
-
-3 Right click on the image
-
-4 click on "copy image address".
-
-5 Paste it on the below url space.
-
-![Try](https://i.imgur.com/rDjaWjx.jpg)
 
 ### Installation Details
 
