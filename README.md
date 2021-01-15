@@ -3,7 +3,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](http://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
-**Mission**- A fun project to toon profile pictures.
+**Mission**- A fun project to toon portrait images.
 
 **Try your Twitter/Linkedin profile picture in the below colab link.**
 
@@ -71,6 +71,22 @@ The easiest way to get started is to simply try out on Colab: [<img src="https:/
 -Check the below given example image, poses similar to the below image are more suitable for better results.
 
 ![Imgur](https://i.imgur.com/OsqEEpR.jpg)
+
+### Try your Twitter/Linkedin profile picture on Colab.
+
+Steps to Follow (Twitter/Linkedin):
+
+1 Open your twitter profile page
+
+2 Click on your profile picture, Let it expand.
+
+3 Right click on the image
+
+4 click on "copy image address".
+
+5 Paste it on the below url space.
+
+![Imgur](https://i.imgur.com/rDjaWjx.jpg)
 
 ### Installation Details
 
