@@ -11,6 +11,10 @@ Best suited for Twitter/Linkedin profile pictures. Try portrait photos below 600
 
 [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/Toon_Me_(Try_it_on_Colab).ipynb)
 
+## Highlights
+- [Technical Details](#Technical-Details)
+- [Getting Started Yourself](#Getting-Started-Yourself)
+
 
 
 ## Example Images
@@ -65,7 +69,6 @@ The easiest way to get started is to simply try out on Colab: [<img src="https:/
 -Best suited for portrait photos(below 600px), check the below given example image.
 
 ![Imgur](https://i.imgur.com/OsqEEpR.jpg)
-
 
 ### Installation Details
 
