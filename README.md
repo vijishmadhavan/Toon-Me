@@ -58,6 +58,20 @@ I have created a custom dataset having 300 images.
 
 The easiest way to get started is to simply try out on Colab: [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/Toon_Me_(Try_it_on_Colab).ipynb)
 
+**Steps to Follow (Twitter/Linkedin):**
+
+1 Open your twitter profile page
+
+2 Click on your profile picture, Let it expand. 
+
+3 Right click on the image
+
+4 click on "copy image address".
+
+5 Paste it on the below url space.
+
+![Try](https://i.imgur.com/rDjaWjx.jpg)
+
 ### Installation Details
 
 This project is built around the wonderful Fast.AI library.
@@ -71,6 +85,7 @@ This project is built around the wonderful Fast.AI library.
 - Just Face cartoonization, nothing else.
 - Some poses can be difficult for the model to asses.
 - Good quality photos with proper lighting is needed for good results.
+
 
 ### Updates
 
