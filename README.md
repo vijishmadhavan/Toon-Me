@@ -50,10 +50,20 @@ https://github.com/vijishmadhavan/ArtLine
 
 * **No GAN** 
 
-
 ## Dataset
 
 I have created a custom dataset having 300 images. 
+
+## Getting Started Yourself
+
+The easiest way to get started is to simply try out on Colab: [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/Toon_Me_(Try_it_on_Colab).ipynb)
+
+### Installation Details
+
+This project is built around the wonderful Fast.AI library.
+
+- **fastai==1.0.61** (and its dependencies).  Please dont install the higher versions
+- **PyTorch 1.6.0** Please don't install the higher versions
 
 ### Limitations
 
@@ -61,3 +71,11 @@ I have created a custom dataset having 300 images.
 - Just Face cartoonization, nothing else.
 - Some poses can be difficult for the model to asses.
 - Good quality photos with proper lighting is needed for good results.
+
+### Updates
+
+[Get more updates on Twitter](https://twitter.com/Vijish68859437)
+
+Mail me @ vijishmadhavan@gmail.com
+
+
