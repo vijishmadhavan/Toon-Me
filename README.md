@@ -14,7 +14,7 @@ Best suited for Twitter/Linkedin profile pictures. Try portrait photos below 600
 ## Highlights
 - [Technical Details](#Technical-Details)
 - [Getting Started Yourself](#Getting-Started-Yourself)
-- [Try your Twitter/Linkedin profile picture on Colab](#Try-your-Twitter/Linkedin-profile-picture-on-Colab)
+- [Try your Twitter/Linkedin profile picture on Colab](#Try-your-Twitter-profile-picture-on-Colab)
 
 
 
