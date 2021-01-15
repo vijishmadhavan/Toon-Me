@@ -75,6 +75,10 @@ The easiest way to get started is to simply try out on Colab: [<img src="https:/
 
 ## Try your Twitter profile picture on Colab
 
+Open colab run all the required cells, In case of doubt check this video.
+
+https://www.youtube.com/watch?v=ULqlp6Btk2w&t=324s
+
 Steps to Follow (Twitter/Linkedin):
 
 1 Open your twitter profile page
