@@ -38,7 +38,7 @@ Deepika Padukone, Indian actress
 
 ## Toon-Me
 
-Toon-Me is just a fun project, the main focus is to bring a cartoonized effect to profile pictures. Most of the profile pictures in twitter/linkedin are portrait images as it helps in visibility, Toon-Me is well suited for images similar to profile pictures. Two models has been combined to bring the cartoonized effect, one is ArtLine https://github.com/vijishmadhavan/ArtLine and another one is Toon-Me.
+Toon-Me is just a fun project, the main focus is to bring a cartoonized effect to profile pictures. Most of the profile pictures in twitter/Linkedin are portrait images as it helps with visibility, Toon-Me is well suited for images similar to profile pictures. Two models has been combined to bring the cartoonized effect, one is ArtLine https://github.com/vijishmadhavan/ArtLine and another one is Toon-Me.
 
 **Technical details of ArtLine can be found on the below link.**
 
