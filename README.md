@@ -85,6 +85,7 @@ This project is built around the wonderful Fast.AI library.
 - Just Face cartoonization, nothing else.
 - Some poses can be difficult for the model to asses.
 - Good quality photos with proper lighting is needed for good results.
+- Does not work well with random backgrounds, for better results need plain background portraits.
 
 
 ### Updates
