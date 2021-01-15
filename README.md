@@ -7,8 +7,6 @@
 
 **Try your Twitter/Linkedin profile picture in the below colab link.**
 
-**Model**
-
 [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/Toon_Me_(Try_it_on_Colab).ipynb)
 
 
