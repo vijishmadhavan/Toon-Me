@@ -62,7 +62,7 @@ The easiest way to get started is to simply try out on Colab: [<img src="https:/
 
 -Best suited for Twitter/Linkedin profile pictures. Try photos below 600px.
 
--Best suited for portrait photos as below the given image.
+-Best suited for portrait photos(below 600px), check the below given example image.
 
 ![Imgur](https://i.imgur.com/OsqEEpR.jpg)
 
