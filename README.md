@@ -28,9 +28,9 @@ Virat Kohli, Indian cricketer
 
 ![Virat](https://i.imgur.com/TcGTNgV.jpg)
 
-Aamir Khan, Indian actor
+Margot Robbie,Australian actress
 
-![Amir](https://i.imgur.com/G7z6k2M.jpg)
+![Margot Robbie](https://i.imgur.com/LNWoTBW.jpg)
 
 Tom Cruise, American actor
 
