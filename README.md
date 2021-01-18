@@ -24,17 +24,17 @@ Robert Downey, Jr., American actor
 
 ![Robert](https://i.imgur.com/CmMlzER.jpg)
 
-Virat Kohli, Indian cricketer
+Hugh Jackman, actor
 
-![Virat](https://i.imgur.com/TcGTNgV.jpg)
+![Imgur](https://i.imgur.com/TzfkofE.jpg)
 
 Margot Robbie,Australian actress
 
-![Margot Robbie](https://i.imgur.com/LNWoTBW.jpg)
+![Margot Robbie](https://i.imgur.com/dl7RY20.jpg)
 
-Tom Cruise, American actor
+Virat Kohli, Indian cricketer
 
-![Tom](https://i.imgur.com/gSmZIPs.jpg)
+![Virat](https://i.imgur.com/TcGTNgV.jpg)
 
 Deepika Padukone, Indian actress
 
