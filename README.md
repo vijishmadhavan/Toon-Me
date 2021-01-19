@@ -9,7 +9,16 @@
 
 Best suited for Twitter profile pictures. Try portrait photos below 600px.
 
+Please try Model 1 before trying Model 2.
+
+**Model 1:**
+
 [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/Toon_Me_(Try_it_on_Colab).ipynb)
+
+**Model 2:** 
+
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/Toon_Me_(Alt_Model).ipynb)
+
 
 ## Highlights
 - [Technical Details](#Technical-Details)
