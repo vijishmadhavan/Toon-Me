@@ -9,7 +9,7 @@
 
 Best suited for **Twitter profile pictures**. Try portrait photos below 600px.
 
-Please try Model 1 before trying Model 2.
+Please try Model 1 before Model 2.
 
 **Model 1:**
 
