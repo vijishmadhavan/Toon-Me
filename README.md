@@ -5,7 +5,7 @@
 
 **Mission**- A fun project to toon portrait images.
 
-**Try your Twitter/Linkedin profile picture in the below colab link.**
+**Try your Twitter profile picture in the below colab link.**
 
 Best suited for **Twitter profile pictures**. Try portrait photos below 600px.
 
