@@ -40,7 +40,8 @@ Hugh Jackman, actor
 
 Jennifer Lawrence, American actress
 
-![Jennifer Lawrence](https://i.imgur.com/xcTaDw5.jpg)
+![Jennifer Lawrence](https://i.imgur.com/6ZGNmdR.jpg)
+
 
 Virat Kohli, Indian cricketer
 
