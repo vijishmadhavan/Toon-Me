@@ -8,7 +8,7 @@
 
 **Try your Twitter profile picture in the below colab link.**
 
-Best suited for **Twitter profile pictures**. Try portrait photos below 600px.
+Best suited for **Twitter profile pictures**. Try **"Portrait"** photos below 600px.
 
 Please try Model 1 before Model 2.
 
