@@ -38,9 +38,9 @@ Hugh Jackman, actor
 
 ![Imgur](https://i.imgur.com/TzfkofE.jpg)
 
-Margot Robbie,Australian actress
+Jennifer Lawrence, American actress
 
-![Margot Robbie](https://i.imgur.com/dl7RY20.jpg)
+![Jennifer Lawrence](https://i.imgur.com/xcTaDw5.jpg)
 
 Virat Kohli, Indian cricketer
 
