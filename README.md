@@ -1,5 +1,3 @@
-# [Toon-Me](https://github.com/vijishmadhavan/Toon-Me) &nbsp; [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Toon%Portraits&url=https://github.com/vijishmadhavan/Toon-Me&via==Toon-Me&hashtags=machinelearning,developers,100DaysOfCode,Deeplearning) &nbsp;
-
 # [Toon-Me](https://github.com/vijishmadhavan/Toon-Me) &nbsp; [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Toon%20Portraits&url=https://github.com/vijishmadhavan/Toon-Me&via=toonme&hashtags=machinelearning,developers,100DaysOfCode,Deeplearning) &nbsp;
 
 
