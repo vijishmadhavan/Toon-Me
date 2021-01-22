@@ -75,7 +75,7 @@ I have created a custom dataset having 300 images.
 
 The easiest way to get started is to simply try out on Colab: [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Light-Up/blob/master/Toon_Me_(Try_it_on_Colab).ipynb)
 
--Best suited for Twitter/Linkedin profile pictures. Try photos below 600px.
+-Best suited for Twitter profile pictures. Try photos below 550px.
 
 -Best suited for portrait photos(below 550px)
 
