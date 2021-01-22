@@ -6,7 +6,7 @@
 
 **Mission**- A fun project to toon portrait images.
 
-**Try your Twitter profile picture in the below colab link.**
+**Try your Twitter profile picture in the below colab link.** Read Getting started yourself before trying (scroll down).
 
 Best suited for **Twitter profile pictures**. Try **"Portrait"** photos below 550px.
 
@@ -77,7 +77,7 @@ The easiest way to get started is to simply try out on Colab: [<img src="https:/
 
 -Best suited for Twitter/Linkedin profile pictures. Try photos below 600px.
 
--Best suited for portrait photos(below 600px)
+-Best suited for portrait photos(below 550px)
 
 -Check the below given example image, poses similar to the below image are more suitable for better results.
 
