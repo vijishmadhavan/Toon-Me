@@ -30,13 +30,13 @@ Please try Model 1 before Model 2.
 
 ## Example Images
 
+Hugh Jackman, actor
+
+![Jackman](https://i.imgur.com/P3Z2ulm.jpg)
+
 Robert Downey, Jr., American actor
 
 ![Robert](https://i.imgur.com/CmMlzER.jpg)
-
-Hugh Jackman, actor
-
-!Imgur](https://i.imgur.com/P3Z2ulm.jpg)
 
 Jennifer Lawrence, American actress
 
