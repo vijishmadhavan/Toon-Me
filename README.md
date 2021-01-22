@@ -6,7 +6,7 @@
 
 **Mission**- A fun project to toon portrait images.
 
-**Try your Twitter profile picture in the below colab link.** Read Getting started yourself before trying (scroll down).
+**Try your Twitter profile picture in the below colab link.** Read [Getting Started Yourself](#Getting-Started-Yourself)before trying (scroll down).
 
 Best suited for **Twitter profile pictures**. Try **"Portrait"** photos below 550px.
 
