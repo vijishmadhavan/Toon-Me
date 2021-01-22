@@ -77,7 +77,7 @@ The easiest way to get started is to simply try out on Colab: [<img src="https:/
 
 -Best suited for Twitter profile pictures. Try photos below 550px.
 
--Best suited for portrait photos(below 550px)
+-Best suited for portrait photos in T-shirt/shirt (below 550px)
 
 -Check the below given example image, poses similar to the below image are more suitable for better results.
 
