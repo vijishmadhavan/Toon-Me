@@ -36,12 +36,11 @@ Robert Downey, Jr., American actor
 
 Hugh Jackman, actor
 
-![Imgur](https://i.imgur.com/TzfkofE.jpg)
+!Imgur](https://i.imgur.com/P3Z2ulm.jpg)
 
 Jennifer Lawrence, American actress
 
 ![Jennifer Lawrence](https://i.imgur.com/6ZGNmdR.jpg)
-
 
 Virat Kohli, Indian cricketer
 
